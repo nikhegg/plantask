@@ -1,0 +1,28 @@
+{
+  "name": "plantask",
+  "version": "1.0.0",
+  "description": "Plantask is a scheduler for Node.js. You can make Plantask to run a function in a specific date or time",
+  "main": "index.js",
+  "types": "./types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "schedule",
+    "scheduler",
+    "plan",
+    "planner",
+    "task",
+    "tasks"
+  ],
+  "author": "nikhegg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhegg/plantask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nikhegg/plantask/issues"
+  },
+  "homepage": "https://github.com/nikhegg/plantask#readme"
+}
